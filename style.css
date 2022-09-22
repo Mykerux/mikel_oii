@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+}
+section {
+  padding-top: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #66bb6a;
+  width: auto;
+}
+.credits {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+  color: #fff;
+}
+.keyboard {
+  padding-top: 6rem;
+}
+s .jumbotron h2 {
+  color: #fff;
+}
+.card {
+  justify-content: space-around;
+}
+.gerak {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 100%;
+}
+
+.card img:hover {
+  transform: scale(0.9);
+  padding-bottom: 1rem;
+}
+.slide::after {
+  padding: 0%;
+  content: "";
+
+  position: center;
+  background-color: rgba(86, 86, 86, 0.5);
+}
